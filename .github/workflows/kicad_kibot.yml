@@ -27,7 +27,7 @@ jobs:
       uses: softprops/action-gh-release@v1
       with:
         files: |
-         generalFiles.zip
+         generalFiles.zip  # test
          iBom.zip
          Schematic.zip
          Bom_csv.zip
